@@ -10,6 +10,8 @@ Sitio de cinco páginas creado con HTML semántico para la actividad integradora
 - `cv.html`: tablas accesibles de formación, competencias e idiomas.
 - `contacto.html`: formulario con validación nativa, correo y enlace a GitHub.
 
+Repositorio: <https://github.com/jsalespiquer/Portafolio>
+
 ## Tecnologías
 
 - HTML5 semántico.
@@ -23,4 +25,4 @@ Sitio de cinco páginas creado con HTML semántico para la actividad integradora
 3. Comprueba las cinco páginas con el [validador HTML del W3C](https://validator.w3.org/).
 4. Crea un repositorio público, realiza commits descriptivos durante el trabajo y crea la etiqueta `v1`.
 
-No se indica una URL de publicación porque todavía no se ha configurado un repositorio ni GitHub Pages.
+GitHub Pages todavía no está configurado. Cuando lo publiques, añade aquí la URL del sitio.
