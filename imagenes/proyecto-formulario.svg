@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Ilustración de un formulario de contacto</title>
+  <rect width="640" height="360" fill="#ecfeff"/>
+  <rect x="152" y="32" width="336" height="296" rx="14" fill="#fff" stroke="#0891b2" stroke-width="3"/>
+  <g fill="#164e63">
+    <rect x="185" y="65" width="110" height="11" rx="5"/>
+    <rect x="185" y="119" width="110" height="11" rx="5"/>
+    <rect x="185" y="173" width="110" height="11" rx="5"/>
+  </g>
+  <g fill="#ecfeff" stroke="#67e8f9" stroke-width="2">
+    <rect x="185" y="82" width="270" height="25" rx="5"/>
+    <rect x="185" y="136" width="270" height="25" rx="5"/>
+    <rect x="185" y="190" width="270" height="68" rx="5"/>
+  </g>
+  <rect x="185" y="276" width="112" height="30" rx="7" fill="#0891b2"/>
+</svg>

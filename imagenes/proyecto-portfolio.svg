@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Ilustración de un portfolio con varias páginas</title>
+  <rect width="640" height="360" fill="#fdf2f8"/>
+  <rect x="72" y="48" width="496" height="264" rx="12" fill="#fff" stroke="#db2777" stroke-width="3"/>
+  <rect x="73" y="49" width="494" height="42" rx="10" fill="#fce7f3"/>
+  <circle cx="98" cy="70" r="7" fill="#db2777"/>
+  <circle cx="121" cy="70" r="7" fill="#f472b6"/>
+  <circle cx="144" cy="70" r="7" fill="#fbcfe8"/>
+  <rect x="100" y="116" width="145" height="158" rx="7" fill="#fbcfe8"/>
+  <rect x="270" y="120" width="245" height="17" rx="8" fill="#9d174d"/>
+  <rect x="270" y="155" width="210" height="11" rx="5" fill="#f9a8d4"/>
+  <rect x="270" y="181" width="225" height="11" rx="5" fill="#f9a8d4"/>
+  <rect x="270" y="224" width="92" height="36" rx="7" fill="#db2777"/>
+</svg>

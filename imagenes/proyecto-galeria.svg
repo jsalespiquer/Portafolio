@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Ilustración de una galería con pies de foto</title>
+  <rect width="640" height="360" fill="#fff7ed"/>
+  <g stroke="#c2410c" stroke-width="3">
+    <rect x="60" y="64" width="155" height="220" rx="8" fill="#fff"/>
+    <rect x="243" y="64" width="155" height="220" rx="8" fill="#fff"/>
+    <rect x="425" y="64" width="155" height="220" rx="8" fill="#fff"/>
+  </g>
+  <g>
+    <rect x="75" y="80" width="125" height="125" fill="#fed7aa"/>
+    <circle cx="137" cy="125" r="24" fill="#fb923c"/>
+    <path d="m75 196 39-41 27 24 24-31 35 36v21H75Z" fill="#c2410c"/>
+    <rect x="258" y="80" width="125" height="125" fill="#ffedd5"/>
+    <circle cx="320" cy="125" r="24" fill="#fdba74"/>
+    <path d="m258 196 39-41 27 24 24-31 35 36v21H258Z" fill="#ea580c"/>
+    <rect x="440" y="80" width="125" height="125" fill="#fed7aa"/>
+    <circle cx="502" cy="125" r="24" fill="#fb923c"/>
+    <path d="m440 196 39-41 27 24 24-31 35 36v21H440Z" fill="#c2410c"/>
+  </g>
+  <g fill="#9a3412">
+    <rect x="85" y="228" width="105" height="9" rx="4"/>
+    <rect x="268" y="228" width="105" height="9" rx="4"/>
+    <rect x="450" y="228" width="105" height="9" rx="4"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Ilustración de una tabla con filas y encabezados</title>
+  <rect width="640" height="360" fill="#f5f3ff"/>
+  <rect x="72" y="62" width="496" height="236" rx="8" fill="#fff" stroke="#7c3aed" stroke-width="3"/>
+  <rect x="73" y="63" width="494" height="54" rx="7" fill="#7c3aed"/>
+  <g stroke="#c4b5fd" stroke-width="2">
+    <path d="M72 117h496M72 177h496M72 237h496M235 63v235M414 63v235"/>
+  </g>
+  <g fill="#ddd6fe">
+    <rect x="96" y="138" width="94" height="14" rx="7"/>
+    <rect x="260" y="138" width="116" height="14" rx="7"/>
+    <rect x="438" y="138" width="98" height="14" rx="7"/>
+    <rect x="96" y="198" width="94" height="14" rx="7"/>
+    <rect x="260" y="198" width="116" height="14" rx="7"/>
+    <rect x="438" y="198" width="98" height="14" rx="7"/>
+    <rect x="96" y="258" width="94" height="14" rx="7"/>
+    <rect x="260" y="258" width="116" height="14" rx="7"/>
+    <rect x="438" y="258" width="98" height="14" rx="7"/>
+  </g>
+</svg>

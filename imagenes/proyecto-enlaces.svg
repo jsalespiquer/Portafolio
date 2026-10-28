@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title">
+  <title id="title">Diagrama ilustrado de navegación entre páginas</title>
+  <rect width="640" height="360" fill="#f0fdf4"/>
+  <g fill="#fff" stroke="#16a34a" stroke-width="4">
+    <rect x="245" y="36" width="150" height="62" rx="12"/>
+    <rect x="76" y="246" width="150" height="62" rx="12"/>
+    <rect x="245" y="246" width="150" height="62" rx="12"/>
+    <rect x="414" y="246" width="150" height="62" rx="12"/>
+  </g>
+  <g fill="none" stroke="#15803d" stroke-width="5">
+    <path d="M286 98 180 246M320 98v148M354 98l106 148"/>
+  </g>
+  <g fill="#86efac">
+    <circle cx="320" cy="67" r="15"/>
+    <circle cx="151" cy="277" r="15"/>
+    <circle cx="320" cy="277" r="15"/>
+    <circle cx="489" cy="277" r="15"/>
+  </g>
+</svg>
