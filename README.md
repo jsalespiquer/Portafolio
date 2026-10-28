@@ -1,0 +1,26 @@
+# Portfolio personal — plantilla de ejemplo
+
+Sitio de cinco páginas creado con HTML semántico para la actividad integradora. El contenido personal y los proyectos son ejemplos editables: antes de entregar, sustituye los textos entre corchetes, revisa las descripciones y añade trabajos tuyos. No publiques teléfono, domicilio, DNI ni fotos de otras personas.
+
+## Páginas
+
+- `index.html`: presentación, avatar, proyectos destacados y aprendizaje actual.
+- `sobre-mi.html`: trayectoria, aficiones, objetivos e índice de anclas.
+- `proyectos.html`: seis proyectos de ejemplo con ilustraciones, descripción y aprendizaje.
+- `cv.html`: tablas accesibles de formación, competencias e idiomas.
+- `contacto.html`: formulario con validación nativa, correo y enlace a GitHub.
+
+## Tecnologías
+
+- HTML5 semántico.
+- SVG local para el avatar y las ilustraciones de los proyectos.
+- Sin dependencias ni JavaScript.
+
+## Antes de entregar
+
+1. Personaliza el contenido, el avatar y las capturas con tus propios trabajos.
+2. Sustituye el correo de ejemplo y añade la URL de tu perfil de GitHub.
+3. Comprueba las cinco páginas con el [validador HTML del W3C](https://validator.w3.org/).
+4. Crea un repositorio público, realiza commits descriptivos durante el trabajo y crea la etiqueta `v1`.
+
+No se indica una URL de publicación porque todavía no se ha configurado un repositorio ni GitHub Pages.
