@@ -23,6 +23,7 @@ Repositorio: <https://github.com/jsalespiquer/Portafolio>
 1. Personaliza el contenido, el avatar y las capturas con tus propios trabajos.
 2. Sustituye el correo de ejemplo y añade la URL de tu perfil de GitHub.
 3. Comprueba las cinco páginas con el [validador HTML del W3C](https://validator.w3.org/).
-4. Crea un repositorio público, realiza commits descriptivos durante el trabajo y crea la etiqueta `v1`.
+5. Crea un repositorio público, realiza commits descriptivos durante el trabajo y crea la etiqueta
+    `v1`.
 
 URL prevista de GitHub Pages: <https://jsalespiquer.github.io/Portafolio/>. El sitio aún no está publicado: en GitHub, abre **Settings → Pages**, selecciona **Deploy from a branch**, elige `main` y `/(root)`, y pulsa **Save**. Cuando termine la publicación, comprueba esta dirección.
